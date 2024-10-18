@@ -15,7 +15,7 @@ const databaseId = process.env.NOTION_DATABASE_ID;
 const CONFIG ={
   days: 7,
   dir:'./posts',
-  filename:'每周见闻'
+  filename:'每周-见闻'
 }
 
 const curTime = moment(Date.now());
